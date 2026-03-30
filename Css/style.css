@@ -1,0 +1,25 @@
+/* 1 element
+2 group
+3 id
+4 class
+5  universal
+*/
+
+
+
+div{background-color: darksalmon;
+}
+ h1,h2{
+    font-style: italic;
+    font-size: 40;
+ }
+
+ #para{
+    font-size: 30;
+ }
+
+ .color{
+    background-color: darkblue;
+    color: blanchedalmond;
+ }
+ 

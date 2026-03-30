@@ -1,0 +1,12 @@
+h1{
+    font-weight: 100
+}
+h2{
+    font-style: italic;
+}
+ .color{
+    background-color: bisque;
+ }
+ .bgcolor{
+   background-color: aqua;
+ }
