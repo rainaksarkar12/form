@@ -1,0 +1,42 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: rgb(3, 79, 79);
+}
+
+.content {
+  /* background-color: bisque; */
+  /* all side */
+  margin: 100px;
+  /* top-bottom left -right*/
+
+  margin: 200px 100px;
+  /* top-bottom , right-left */
+
+  margin: 100px auto;
+  width: 50%;
+  padding: 30px;
+}
+.content h1{
+color: white;
+margin-bottom: 30px;
+text-align: center;
+text-transform: uppercase;
+}
+.content form{
+    background-color: white;
+}
+label{
+    display: block;
+    margin-bottom: 5px;
+    text-transform: uppercase;
+    font-size: 14px;
+    color: red;
+}
+input{
+    display: block;
+}
